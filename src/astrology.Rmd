@@ -2,7 +2,7 @@
 title: "The Science behind Astrology"
 author: "Tesfatsion Shiferaw"
 date: "4/24/2020"
-output: github_document
+output: html_document
 ---
 
 ```{r loadthings, echo=FALSE, message=FALSE}
