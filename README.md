@@ -54,3 +54,5 @@ The chi squared test on Zodiac signs vs type of Trophies table showed a p-value 
 
 In general, we do not have evidence to prove that there is any connection between Zodiac signs and physical appearance, behaviour and success (determination to work).
 
+
+![Astrology poster](https://user-images.githubusercontent.com/62855279/139428457-2c0fe8de-55d7-4730-9bc7-1a4202cceaf0.jpg)
