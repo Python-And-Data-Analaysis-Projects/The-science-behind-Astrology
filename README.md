@@ -56,3 +56,6 @@ In general, we do not have evidence to prove that there is any connection betwee
 
 
 ![Astrology poster](https://user-images.githubusercontent.com/62855279/139428457-2c0fe8de-55d7-4730-9bc7-1a4202cceaf0.jpg)
+
+
+[astrology.pdf](https://github.com/Tesfa-eth/The-science-behind-Astrology/files/7441598/astrology.pdf)
